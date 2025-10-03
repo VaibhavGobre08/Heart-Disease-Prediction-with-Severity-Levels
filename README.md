@@ -50,7 +50,7 @@ This project classifies heart disease severity and predicts risk levels using a 
 
 ### Installation
 
-git clone 
+git clone https://github.com/VaibhavGobre08/Heart-Disease-Prediction-with-Severity-Levels.git
 cd heart-disease-prediction
 pip install -r requirements.txt
 python manage.py runserver
